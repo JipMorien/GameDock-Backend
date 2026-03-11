@@ -1,0 +1,6 @@
+@GameDock.API_HostAddress = http://localhost:5177
+
+GET {{GameDock.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
