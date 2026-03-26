@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameDock.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc5934ea69b6926c40102efdfab7a4733eb5b018")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameDock.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameDock.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

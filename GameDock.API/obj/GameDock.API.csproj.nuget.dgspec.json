@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jipmo\\Desktop\\Semester 3\\Individueel project\\GameDock-Backend\\GameDock.API\\GameDock.API.csproj": {}
+    "C:\\Users\\jipmo\\Desktop\\Semester 3\\Individueel project\\GameDock App\\GameDock-Backend\\GameDock.Api\\GameDock.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jipmo\\Desktop\\Semester 3\\Individueel project\\GameDock-Backend\\GameDock.API\\GameDock.API.csproj": {
+    "C:\\Users\\jipmo\\Desktop\\Semester 3\\Individueel project\\GameDock App\\GameDock-Backend\\GameDock.Api\\GameDock.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jipmo\\Desktop\\Semester 3\\Individueel project\\GameDock-Backend\\GameDock.API\\GameDock.API.csproj",
+        "projectUniqueName": "C:\\Users\\jipmo\\Desktop\\Semester 3\\Individueel project\\GameDock App\\GameDock-Backend\\GameDock.Api\\GameDock.API.csproj",
         "projectName": "GameDock.API",
-        "projectPath": "C:\\Users\\jipmo\\Desktop\\Semester 3\\Individueel project\\GameDock-Backend\\GameDock.API\\GameDock.API.csproj",
+        "projectPath": "C:\\Users\\jipmo\\Desktop\\Semester 3\\Individueel project\\GameDock App\\GameDock-Backend\\GameDock.Api\\GameDock.API.csproj",
         "packagesPath": "C:\\Users\\jipmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jipmo\\Desktop\\Semester 3\\Individueel project\\GameDock-Backend\\GameDock.API\\obj\\",
+        "outputPath": "C:\\Users\\jipmo\\Desktop\\Semester 3\\Individueel project\\GameDock App\\GameDock-Backend\\GameDock.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,16 +49,6 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[9.0.5, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[10.1.5, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

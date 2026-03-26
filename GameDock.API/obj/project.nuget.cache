@@ -1,17 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QQn4qP3tOQM=",
+  "dgSpecHash": "2SHeMyOxmzw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jipmo\\Desktop\\Semester 3\\Individueel project\\GameDock-Backend\\GameDock.API\\GameDock.API.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\jipmo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
-    "C:\\Users\\jipmo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
-    "C:\\Users\\jipmo\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
-    "C:\\Users\\jipmo\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.5\\swashbuckle.aspnetcore.10.1.5.nupkg.sha512",
-    "C:\\Users\\jipmo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.5\\swashbuckle.aspnetcore.swagger.10.1.5.nupkg.sha512",
-    "C:\\Users\\jipmo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.5\\swashbuckle.aspnetcore.swaggergen.10.1.5.nupkg.sha512",
-    "C:\\Users\\jipmo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.5\\swashbuckle.aspnetcore.swaggerui.10.1.5.nupkg.sha512",
-    "C:\\Users\\jipmo\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\jipmo\\Desktop\\Semester 3\\Individueel project\\GameDock App\\GameDock-Backend\\GameDock.Api\\GameDock.API.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
